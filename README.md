@@ -11,14 +11,6 @@ Model: For this project I used a random forest model, to classify the severity o
 
 Feature Selection: In order to select relevant features, I used chi squared feature selection to find the features that our y variable (accident severity) is most dependent on. 
 
-Basic Visualization:
+Basic Visualization With Tableau showing estimated injuries based on year, fatalities by year, Injuries by year and 7 most dangerous cross intersections:
 
-<img width="441" alt="Screen Shot 2022-01-05 at 9 02 30 PM" src="https://user-images.githubusercontent.com/88412646/148326656-859dc362-96db-4c25-8b91-3f939297ad45.png">
-
-
-<img width="646" alt="Screen Shot 2022-01-05 at 9 05 28 PM" src="https://user-images.githubusercontent.com/88412646/148326632-578895fb-e141-4579-b23a-5abac3015778.png">
-
-<img width="606" alt="Screen Shot 2022-01-05 at 9 05 33 PM" src="https://user-images.githubusercontent.com/88412646/148326637-8cdcffb0-c86b-4795-9ed7-d38c55aa0de7.png">
-
-<img width="870" alt="Screen Shot 2022-01-05 at 9 05 21 PM" src="https://user-images.githubusercontent.com/88412646/148326642-db51b8b4-19a1-42b7-b8b7-d4946a4e5adf.png">
-
+<img width="813" alt="Screen Shot 2022-01-05 at 9 07 49 PM" src="https://user-images.githubusercontent.com/88412646/148326719-ae1c549f-8839-46e6-9184-bc0c3ae03b77.png">
